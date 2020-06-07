@@ -9,8 +9,6 @@ Please follow the 6 steps to perform your first contribution.
 
 #### *Read this in japanese
 
-[🇯🇵](translations/README.ja.md)
-
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
 ## Step 1 - Fork this repository
