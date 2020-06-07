@@ -7,8 +7,6 @@ It's hard. It's always hard the first time you do something. This is the standar
 
 Please follow the 6 steps to perform your first contribution.
 
-#### *Read this in japanese
-
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
 ## Step 1 - Fork this repository
@@ -47,7 +45,7 @@ git checkout -b <add-your-new-branch-name>
 
 For example:
 ```
-git checkout -b add-raula-kula
+git checkout -b add-kula
 ```
 (The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
