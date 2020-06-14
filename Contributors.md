@@ -13,5 +13,6 @@ studentID - username <br/>
 1911413 - Zhiwei Gao<br/> 
 2011297   - Kotaro Yoshimoto<br/>
 2011268   - Keita Morisaki<br/>
+2011170   - Seiya Tanaka<br/>
 2011226   - Shintaro Harada <br/>
 2011017   - Ikegami Ayano<br/>
