@@ -5,7 +5,7 @@ studentID - username <br/>
 1911401   - Yuri UENO<br/>
 1911405   - Joji Yanagii<br/>
 1911415   - Pabitra LENKA<br/>
-2011302   - CHI ZIHAO<br/>
+2011302   - CHI ZIHAO(Pull request again on Nov 26th) <br/>
 2011110   -Tetsuya Kodama<br/>
 2011115   - YuhiSaiki<br/>
 2011088   - Toshinori Kitamura <br/>
