@@ -5,7 +5,7 @@ studentID - username <br/>
 1911401   - Yuri UENO<br/>
 1911405   - Joji Yanagii<br/>
 1911415   - Pabitra LENKA<br/>
-2011302   - CHI ZIHAO<br/>
+2011302   - CHI ZIHAO(Pull request again on Nov 26th) <br/>
 2011110   -Tetsuya Kodama<br/>
 2011115   - YuhiSaiki<br/>
 2011088   - Toshinori Kitamura <br/>
@@ -18,4 +18,6 @@ studentID - username <br/>
 1911407   - Gamar Azuaje <br/>
 1911402   - Shogo Ujiie<br/>
 2011017   - Ikegami Ayano<br/>
-2011317   - Christopher Wiraatmaja
+2011317   - Christopher Wiraatmaja<br/>
+2011411   - Kanchanok Kannee <br/>
+2011156   - Teyon Son<br/>
