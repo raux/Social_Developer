@@ -32,6 +32,6 @@ studentID - username <br/>
 2011409   - Noppadol Assavakamhaenghan<br/>
 2011317   - Christopher Wiraatmaja<br/>
 2011411   - Kanchanok Kannee <br/>
-2011156   - Teyon Son<br/>
 2111219   - Fukuda Takumi<br/>
+2011156   - Teyon Son<br/>
 L200194209 - Fadhlih Hasan Setiawan <br/>
