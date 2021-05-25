@@ -14,7 +14,7 @@ studentID - username <br/>
 2011088   - Toshinori Kitamura <br/>
 2011140   - Naomichi Shimada<br/>
 2011017   - Ayano Ikegami<br/>
-1911413   - Zhiwei Gao<br/> 
+1911413   - Zhiwei Gao<br/>
 2011297   - Kotaro Yoshimoto<br/>
 2011268   - Keita Morisaki<br/>
 2011170   - Seiya Tanaka<br/>
@@ -34,3 +34,5 @@ studentID - username <br/>
 2011411   - Kanchanok Kannee <br/>
 2011156   - Teyon Son<br/>
 L200194209 - Fadhlih Hasan Setiawan <br/>
+2111302   - De Leon Aguilar Sergio<br />
+
