@@ -54,6 +54,8 @@ studentID - username <br/>
 2111203   - Akio Hayakawa<br/>
 2011140   - Naomichi Shimada<br/>
 2011017   - Ayano Ikegami<br/>
+1911413   - Zhiwei Gao<br/> 
+2111044   - Keita Uchida<br/>
 1911413   - Zhiwei Gao<br/>
 2011297   - Kotaro Yoshimoto<br/>
 2011268   - Keita Morisaki<br/>
