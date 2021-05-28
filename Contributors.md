@@ -74,6 +74,8 @@ studentID - username <br/>
 2111286  - Hisashi Yoshizawa<br/>
 2011156   - Teyon Son<br/>
 L200194209 - Fadhlih Hasan Setiawan <br/>
+2111287-kaiyoshida
+2111287 - Kai Yoshida<br/>
 2111219   - Fukuda Takumi<br/>
 2011156   - Teyon Son<br/>
 2111249   - Takashi Matsumoto<br/>
