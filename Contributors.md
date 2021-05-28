@@ -35,6 +35,7 @@ studentID - username <br/>
 2011317 - Christopher Wiraatmaja<br/>
 2011411 - Kanchanok Kannee <br/>
 2011156 - Teyon Son<br/>
+2011407 - Takuya Maeda <br/>
 2011406   - Chihiro Taguchi <br/>
 2111251   - Tomoki Matsuyama <br/>
 2111241   - Shota Matsuo<br/>
