@@ -131,5 +131,6 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111080 - Shuhei Kayawari <br/>
 2111178 - Touri Nakagawa  <br/>
 2111080 - Shuhei Kayawari <br/>
+2111229 - Ryotaro Funai <br/>
 2111106 - Kokura Ryohei<br/>
 
