@@ -121,6 +121,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111124   - Sato Fumiya<br/>
 2111137   - Kento Sugihara<br/>
 2111033 - Kota Iwauchi<br/>
+2111279 - Ryotaro yamamura<br/>
 2111165  - Natsuno Tsukuda<br/>
 2111316 - Phan Thuy Phuong <br/>
 2111259   - Murakami Kyoya<br/>
