@@ -98,6 +98,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111109   - Takumi Goto<br/>
 2111284   - Kaito Yokoro<br/>
 1911416   - Liao Hung-Yi<br/>
+2111162   - Taichi Taniguchi<br/>
 2111256   - Koki Miyazaki<br/>
 2111213   - Yuiho Hirose<br/>
 L200194209 - Fadhlih Hasan Setiawan <br/>
