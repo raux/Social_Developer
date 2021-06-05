@@ -51,6 +51,7 @@ studentID - username <br/>
 2011302   - CHI ZIHAO(Pull request again on Nov 26th) <br/>
 2011110   -Tetsuya Kodama<br/>
 2111091   - Tetsuya Kitoaka<br/>
+2111246   - Taiki Matsumura<br/>
 2011115   - YuhiSaiki<br/>
 2011088   - Toshinori Kitamura <br/>
 2111203   - Akio Hayakawa<br/>
