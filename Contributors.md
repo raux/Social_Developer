@@ -90,6 +90,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111278   - Tatsuya Yamamura<br/>
 2111302   - De Leon Aguilar Sergio<br />
 2011424   - Vinayak Teoh<br/>
+2111215   - Hirono Tomoaki<br/>
 2111287-kaiyoshida
 2111287 - Kai Yoshida<br/>
 2111219   - Fukuda Takumi<br/>
@@ -132,6 +133,8 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111080 - Shuhei Kayawari <br/>
 2111178 - Touri Nakagawa  <br/>
 2111080 - Shuhei Kayawari <br/>
+2111225 - Takara Fujisawa <br/>
 2111229 - Ryotaro Funai <br/>
+2111222 - Fukumoto Daisuke<br/>
 2111106 - Kokura Ryohei<br/>
 2111217 - Kazuki Fukushima<br/>
