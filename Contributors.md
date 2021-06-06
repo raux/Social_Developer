@@ -118,6 +118,7 @@ xxxxxxx   - 1f0c7a8033bd2f83b3da4b38a2b575ba35e2451033c39faf85eeb8b25d85a331(sha
 2111213   - Yuiho Hirose<br/>
 2111209   - TakumiHiraide <br/>
 2111315 - Yue Pan <br/>
+2111261 - Yuto Murata <br/>
 2111253   - Shuhei Misumi <br/>
 2111200   - Takumi Haxhimine<br/>
 2111169   - Nozomi Toba <br/>
@@ -136,6 +137,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111080 - Shuhei Kayawari <br/>
 2111178 - Touri Nakagawa  <br/>
 2111080 - Shuhei Kayawari <br/>
+2111102 - Taichi Kubota<br/>
 2111225 - Takara Fujisawa <br/>
 2111229 - Ryotaro Funai <br/>
 2111222 - Fukumoto Daisuke<br/>
@@ -145,5 +147,9 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111274 - Kyohei Yamaguchi <br/>
 2111217 - Kazuki Fukushima<br/>
 2111005 - Eri Akiyama<br/>
+2111053 - Maho Otsuka<br/>
+2111007 - Takuto Akiyoshi<br/>
 2111017 - Tokimune Ishiyama<br/>
 2111121 - Ryota Saze <br/>
+2111070 - Hiroto Oshimi<br/>
+2111082 - Masaki Kawanaka<br/>
