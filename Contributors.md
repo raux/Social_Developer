@@ -169,5 +169,6 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111039 - Kentaro Ueda
 2111084 - Akira Kawabata<br/>
 2111107 - Tomohito Kodera<br/>
+2111021 - Kazuhiro Ito<br/>
 2111043 - Makoto Uehara<br/>
 2111107 - Tomohito Kodera<br/>
