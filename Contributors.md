@@ -154,3 +154,4 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111070 - Hiroto Oshimi<br/>
 2111016 - Hiroki Ishimaru<br/>
 2111082 - Masaki Kawanaka<br/>
+2111234 - Tomoki Hoshino<br/>
