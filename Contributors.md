@@ -1,6 +1,7 @@
 studentID - username <br/>
 2111149   - Keiichiro Takahashi <br/>
 2011406 - Chihiro Taguchi <br/>
+2111304 - Feng Xincan <br/>
 1911323 - ifrazrehman <br/>
 2011208 - RyusukeNakamura <br/>
 1911404 - Takuro Niitsuma<br/>
@@ -52,7 +53,7 @@ studentID - username <br/>
 2011302   - CHI ZIHAO<br/>
 2011302   - CHI ZIHAO(Pull request again on Nov 26th) <br/>
 2011110   -Tetsuya Kodama<br/>
-2111091   - Tetsuya Kitoaka<br/>
+2111091   - Tetsuya Kitaoka<br/>
 2111246   - Taiki Matsumura<br/>
 2011115   - YuhiSaiki<br/>
 2011088   - Toshinori Kitamura <br/>
@@ -117,6 +118,7 @@ xxxxxxx   - 1f0c7a8033bd2f83b3da4b38a2b575ba35e2451033c39faf85eeb8b25d85a331(sha
 2111253   - Shuhei Misumi <br/>
 2111213   - Yuiho Hirose<br/>
 2111209   - TakumiHiraide <br/>
+2111323   - Yang Ziwei <br/>
 2111315 - Yue Pan <br/>
 2111261 - Yuto Murata <br/>
 2111253   - Shuhei Misumi <br/>
@@ -139,6 +141,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111080 - Shuhei Kayawari <br/>
 2111102 - Taichi Kubota<br/>
 2111225 - Takara Fujisawa <br/>
+2111187 - Nishidani Mihiro <br/>
 2111229 - Ryotaro Funai <br/>
 2111222 - Fukumoto Daisuke<br/>
 2111106 - Kokura Ryohei<br/>
@@ -152,6 +155,9 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111017 - Tokimune Ishiyama<br/>
 2111121 - Ryota Saze <br/>
 2111070 - Hiroto Oshimi<br/>
+2111252 - Daiki Mayumi <br/>
 2111016 - Hiroki Ishimaru<br/>
 2111082 - Masaki Kawanaka<br/>
 2111234 - Tomoki Hoshino<br/>
+2111095 - Yuta Kimata<br/>
+2111084 - Akira Kawabata<br/>
