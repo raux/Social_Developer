@@ -63,7 +63,7 @@
 2111203   - Akio Hayakawa<br/>
 2011140   - Naomichi Shimada<br/>
 2011017   - Ayano Ikegami<br/>
-1911413   - Zhiwei Gao<br/> 
+1911413   - Zhiwei Gao<br/>
 2111044   - Keita Uchida<br/>
 1911413   - Zhiwei Gao<br/>
 1911181   - Miyu Nakamae<br/>
@@ -84,6 +84,7 @@
 2011425	  - Xiao Tao<br/>
 2111273   - Shotaro Yamauchi<br/>
 2011017   - Ikegami Ayano<br/>
+2111031   - Daigo Imamura
 2011409   - Noppadol Assavakamhaenghan<br/>
 2011317   - Christopher Wiraatmaja<br/>
 2011411   - Kanchanok Kannee <br/>
@@ -162,6 +163,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111070 - Hiroto Oshimi<br/>
 2111252 - Daiki Mayumi <br/>
 2111016 - Hiroki Ishimaru<br/>
+2111082 - Masaki Kawanaka<br/>
 2111201 - Masahiro Hamada<br/>
 2111082 - Masaki Kawanaka<br/>
 2111234 - Tomoki Hoshino<br/>
