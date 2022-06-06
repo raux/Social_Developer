@@ -93,6 +93,8 @@ studentID - username <br/>
 2111120   - Takuya Sasaki<br/>
 2011412   - Le Vu Trung Duong<br/>
 L200194209 - Fadhlih Hasan Setiawan <br/>
+2111190   - Kotaro James Nishimura <br/>
+=======
 2111324   - zhou yangyang
 2111324   - zhou yangyang<br/>
 2111177   - Shota Nakagawa <br/>
@@ -180,7 +182,6 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111052 - Itaru Ota<br/>
 2111008 - Tatsuki Asada<br/>
 2111113 - Masahiro Kobayashi
-=======
 studentID - username <br/>
 xxx - kula  <br/>
-2011302 - chi zihao <br/>
+x001 - kula <br>
