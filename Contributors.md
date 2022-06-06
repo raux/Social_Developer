@@ -180,7 +180,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111052 - Itaru Ota<br/>
 2111008 - Tatsuki Asada<br/>
 2111113 - Masahiro Kobayashi
-2111433 - Justin Vasselli <br/>
+2111433 <br/>
 =======
 studentID - username <br/>
 xxx - kula  <br/>
