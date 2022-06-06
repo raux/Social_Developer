@@ -17,7 +17,6 @@ studentID - username <br/>
 2011302 - CHI ZIHAO(Pull request again on Nov 26th) <br/>
 2011110 -Tetsuya Kodama<br/>
 2011115 - YuhiSaiki<br/>
-2211084 - Shota Ozaki<br/>
 2011088 - Toshinori Kitamura <br/>
 2011140 - Naomichi Shimada<br/>
 2011017 - Ayano Ikegami<br/>
@@ -25,6 +24,7 @@ studentID - username <br/>
 2011297 - Kotaro Yoshimoto<br/>
 2011268 - Keita Morisaki<br/>
 2011170 - Seiya Tanaka<br/>
+2211084 - Shota Ozaki<br/>
 2011226 - Shintaro Harada <br/>
 1911407 - Gamar Azuaje <br/>
 1911402 - Shogo Ujiie<br/>
