@@ -184,5 +184,4 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111113 - Masahiro Kobayashi
 studentID - username <br/>
 xxx - kula  <br/>
-2011302 - chi zihao <br/>
 x001 - kula <br>
