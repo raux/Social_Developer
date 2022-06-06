@@ -29,7 +29,6 @@ studentID - username <br/>
 1911402 - Shogo Ujiie<br/>
 2011017 - Ikegami Ayano<br/>
 2011171 - Ken<br/>
-2211084 - Shota Ozaki<br/>
 2111257 - Ryosuke Miyawaki<br/>
 2011145 - Sugahara Takuya<br/>
 2011017 - Tattiya Sakulniwat<br/>
@@ -41,6 +40,7 @@ studentID - username <br/>
 2011317 - Christopher Wiraatmaja<br/>
 2011411 - Kanchanok Kannee <br/>
 2011156 - Teyon Son<br/>
+2211084 - Shota Ozaki<br/>
 2011407 - Takuya Maeda <br/>
 2011406   - Chihiro Taguchi <br/>
 2011403   - Hiroya Kawase <br/>
