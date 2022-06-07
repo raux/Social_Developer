@@ -193,11 +193,13 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111052 - Itaru Ota<br/>
 2111008 - Tatsuki Asada<br/>
 2111113 - Masahiro Kobayashi
+2211188 - Haruki Chaen<br/>
 2211152 - Yuta Shintani
 2211255
 2211284
 2211281 - Nanako Michiura<br/>
 2211332 - GAOSHAN<br/>
+
 studentID - username <br/>
 xxx - kula <br/>
 2011302 - chi zihao <br/>
