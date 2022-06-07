@@ -184,5 +184,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2011070 - Kazuyo Onishi <br/>
 2111113 - Masahiro Kobayashi
 studentID - username <br/>
-xxx - kula <br/>
-x001 - kula <br>
+2111418 - Hovhannisyan Ani<br/>
+2111113 - Masahiro Kobayashi
+2094023 - kotjik (Kulik Konstantin) 
+2211186 - Yujiro Tamura<br/>
