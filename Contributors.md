@@ -15,6 +15,7 @@ studentID - username <br/>
 1911405 - Joji Yanagii<br/>
 1911415 - Pabitra LENKA<br/>
 2011025 - Toyomi Ishida<br/>
+2211084 - Shota Ozaki<br/>
 2011302 - CHI ZIHAO<br/>
 2011302 - CHI ZIHAO(Pull request again on Nov 26th) <br/>
 2011110 -Tetsuya Kodama<br/>
