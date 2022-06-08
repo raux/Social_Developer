@@ -172,6 +172,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111082 - Masaki Kawanaka<br/>
 2111201 - Masahiro Hamada<br/>
 2111082 - Masaki Kawanaka<br/>
+2094023 - Kulik Konstantin <br/>
 2211113 - Ippei Goto<br/>
 2111234 - Tomoki Hoshino<br/>
 2111095 - Yuta Kimata<br/>
