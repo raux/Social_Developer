@@ -185,6 +185,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111082 - Masaki Kawanaka<br/>
 2111201 - Masahiro Hamada<br/>
 2111082 - Masaki Kawanaka<br/>
+2094023 - Kulik Konstantin <br/>
 2211113 - Ippei Goto<br/>
 2111234 - Tomoki Hoshino<br/>
 2111095 - Yuta Kimata<br/>
@@ -220,6 +221,7 @@ studentID - username <br/>
 2111426
 2111113 - Masahiro Kobayashi<br/>
 2211224 - Yuta Nishikawa<br/>
+2011302 - chi zihao <br/>
 2211331 - Chen Xian<br/>
 2211345 - Zheng Haozhi <br/>
 2211177 - Shinnosuke Tanaka <br/>
