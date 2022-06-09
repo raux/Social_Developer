@@ -86,6 +86,7 @@ studentID - username <br/>
 2011017 - Ikegami Ayano<br/>
 2111031 - Daigo Imamura
 2011409 - Noppadol Assavakamhaenghan<br/>
+2111025 - Junya Ino<br/>
 2011317 - Christopher Wiraatmaja<br/>
 2011411 - Kanchanok Kannee <br/>
 2111286 - Hisashi Yoshizawa<br/>
