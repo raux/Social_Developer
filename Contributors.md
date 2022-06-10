@@ -25,6 +25,7 @@ studentID - username <br/>
 2011268 - Keita Morisaki<br/>
 2011170 - Seiya Tanaka<br/>
 2011226 - Shintaro Harada <br/>
+2211324 - Hiroto Yorioka <br/>
 1911407 - Gamar Azuaje <br/>
 1911402 - Shogo Ujiie<br/>
 2011017 - Ikegami Ayano<br/>
