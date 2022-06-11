@@ -13,6 +13,7 @@ studentID - username <br/>
 1911405 - Joji Yanagii<br/>
 1911415 - Pabitra LENKA<br/>
 2011025 - Toyomi Ishida<br/>
+2211029 - Shun Inadumi<br/>
 2011302 - CHI ZIHAO<br/>
 2011302 - CHI ZIHAO(Pull request again on Nov 26th) <br/>
 2011110 -Tetsuya Kodama<br/>
@@ -187,5 +188,6 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 studentID - username <br/>
 2111418 - Hovhannisyan Ani<br/>
 2111113 - Masahiro Kobayashi
-2094023 - kotjik (Kulik Konstantin) 
+2094023 - kotjik (Kulik Konstantin)
 2211186 - Yujiro Tamura<br/>
+2111416 - Fan Youmei<br/>
