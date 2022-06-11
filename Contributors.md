@@ -207,6 +207,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2211113 - Ippei Goto<br/>
 2111234 - Tomoki Hoshino<br/>
 2111095 - Yuta Kimata<br/>
+2211329 - Kanta Watanabe<br/>
 2111084 - Akira Kawabata<br/>
 2011427 - Yu Zihao</br>
 2111039 - Kentaro Ueda
