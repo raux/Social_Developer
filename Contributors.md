@@ -13,6 +13,7 @@ studentID - username <br/>
 1911405 - Joji Yanagii<br/>
 1911415 - Pabitra LENKA<br/>
 2011025 - Toyomi Ishida<br/>
+2211029 - Shun Inadumi<br/>
 2011302 - CHI ZIHAO<br/>
 2011302 - CHI ZIHAO(Pull request again on Nov 26th) <br/>
 2011110 -Tetsuya Kodama<br/>
@@ -82,6 +83,7 @@ studentID - username <br/>
 2011418 - Purit Phanudom<br/>
 2011017 - Ikegami Ayano<br/>
 2011425 - Xiao Tao<br/>
+2211151 - Naoto Shirai<br/>
 2111273 - Shotaro Yamauchi<br/>
 2011017 - Ikegami Ayano<br/>
 2111031 - Daigo Imamura
@@ -122,6 +124,7 @@ xxxxxxx - 1f0c7a8033bd2f83b3da4b38a2b575ba35e2451033c39faf85eeb8b25d85a331(sha25
 2111073 - Riku Otono<br/>
 2111015 - Hiroki Ikoma
 2111253 - Shuhei Misumi </br>
+2211141 - hikaru shijo </br>
 2111180 - Atsuki Nagata </br>
 2111253 - Shuhei Misumi <br/>
 2111213 - Yuiho Hirose<br/>
@@ -181,11 +184,18 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111054 - Hiroyuki Otomo<br/>
 2111052 - Itaru Ota<br/>
 2111008 - Tatsuki Asada<br/>
+2211065<br/>
 2011070 - Kazuyo Onishi <br/>
-2111113 - Masahiro Kobayashi
+2111113 - Masahiro Kobayashi<br/>
 studentID - username <br/>
 2111418 - Hovhannisyan Ani<br/>
 2111113 - Masahiro Kobayashi
 2094023 - kotjik (Kulik Konstantin) 
 2211186 - Yujiro Tamura<br/>
 2211258 - Yue Fujiki<br/>
+2111191 - Tomohiro Nishiyama<br/>
+2211249 - Junya Hishikawa<br/>
+2211186 - Yujiro Tamura<br/>
+2094023 - kotjik (Kulik Konstantin)
+2211186 - Yujiro Tamura<br/>
+2111416 - Fan Youmei<br/>
