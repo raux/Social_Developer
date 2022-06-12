@@ -255,6 +255,7 @@ studentID - username <br/>
 2111438 - Wu Yufei <br/>
 2211177 - Shinnosuke Tanaka <br/>
 2111406 - Hidenori Kiyomoto<br/>
+2211067 - Koki Otsuka<br/>
 2211258 - Yue Fujiki<br/>
 2111191 - Tomohiro Nishiyama<br/>
 2211249 - Junya Hishikawa<br/>
