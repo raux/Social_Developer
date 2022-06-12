@@ -31,6 +31,7 @@ studentID - username <br/>
 2011268 - Keita Morisaki<br/>
 2011170 - Seiya Tanaka<br/>
 2011226 - Shintaro Harada <br/>
+2211324 - Hiroto Yorioka <br/>
 1911407 - Gamar Azuaje <br/>
 1911402 - Shogo Ujiie<br/>
 2011017 - Ikegami Ayano<br/>
@@ -176,7 +177,8 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111259 - Murakami Kyoya<br/>
 2111291 - Masashi Yoshimura<br/>
 2111027 - Shota Inoue <br/>
-2111030 - Akihito Ihara <br/>
+2211324 - Hiroto Yorioka <br/>
+2111030   - Akihito Ihara <br/>
 2111080 - Shuhei Kayawari <br/>
 2111178 - Touri Nakagawa <br/>
 2111080 - Shuhei Kayawari <br/>
