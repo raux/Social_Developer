@@ -22,6 +22,7 @@ studentID - username <br/>
 2011302 - CHI ZIHAO(Pull request again on Nov 26th) <br/>
 2011110 -Tetsuya Kodama<br/>
 2011115 - YuhiSaiki<br/>
+2211147 - Seiji Shimizu<br/>
 2011088 - Toshinori Kitamura <br/>
 2111430 - Ruksit Rojpaisarnkit <br/>
 2011140 - Naomichi Shimada<br/>
@@ -227,7 +228,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 studentID - username <br/>
 2111418 - Hovhannisyan Ani<br/>
 2111113 - Masahiro Kobayashi
-2094023 - kotjik (Kulik Konstantin) 
+2094023 - kotjik (Kulik Konstantin)
 2211186 - Yujiro Tamura<br/>
 2111113 - Masahiro Kobayashi<br/>
 2211200 - Takuma Nagao
