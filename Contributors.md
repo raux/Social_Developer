@@ -224,6 +224,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111054 - Hiroyuki Otomo<br/>
 2111052 - Itaru Ota<br/>
 2111008 - Tatsuki Asada<br/>
+2211116 - Chisa Kondo<br/> 
 2211065<br/>
 2011070 - Kazuyo Onishi <br/>
 2111113 - Masahiro Kobayashi<br/>
@@ -272,5 +273,4 @@ studentID - username <br/>
 2111432
 2211210 - Nakamura Tsubasa<br/>
 2211241 - Yuta Hamada<br/> 
-2211116 - Chisa Kondo<br/> 
 
