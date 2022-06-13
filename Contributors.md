@@ -9,19 +9,24 @@ studentID - username <br/>
 1911323 - ifrazrehman <br/>
 2011208 - RyusukeNakamura <br/>
 1911404 - Takuro Niitsuma<br/>
+2211246 - Higaki-Akihiro<br/>
 2111089 - Shogo Kanda<br/>
 2111411<br/>
 2211048<br/>
+2111441 - Yang Shuo<br/>
 1911401 - Yuri UENO<br/>
 1911405 - Joji Yanagii<br/>
 1911415 - Pabitra LENKA<br/>
 2011025 - Toyomi Ishida<br/>
 2211084 - Shota Ozaki<br/>
 2211029 - Shun Inadumi<br/>
+2211163 - goat1010 <br/>
 2011302 - CHI ZIHAO<br/>
 2011302 - CHI ZIHAO(Pull request again on Nov 26th) <br/>
 2011110 -Tetsuya Kodama<br/>
 2011115 - YuhiSaiki<br/>
+2211147 - Seiji Shimizu<br/>
+2211051 - Taisei Urakami <br/>
 2011088 - Toshinori Kitamura <br/>
 2111430 - Ruksit Rojpaisarnkit <br/>
 2011140 - Naomichi Shimada<br/>
@@ -31,6 +36,7 @@ studentID - username <br/>
 2011268 - Keita Morisaki<br/>
 2011170 - Seiya Tanaka<br/>
 2011226 - Shintaro Harada <br/>
+2211324 - Hiroto Yorioka <br/>
 1911407 - Gamar Azuaje <br/>
 1911402 - Shogo Ujiie<br/>
 2011017 - Ikegami Ayano<br/>
@@ -176,7 +182,8 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111259 - Murakami Kyoya<br/>
 2111291 - Masashi Yoshimura<br/>
 2111027 - Shota Inoue <br/>
-2111030 - Akihito Ihara <br/>
+2211324 - Hiroto Yorioka <br/>
+2111030   - Akihito Ihara <br/>
 2111080 - Shuhei Kayawari <br/>
 2111178 - Touri Nakagawa <br/>
 2111080 - Shuhei Kayawari <br/>
@@ -196,7 +203,9 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111017 - Tokimune Ishiyama<br/>
 2111121 - Ryota Saze <br/>
 2211075 - Koki Okai<br/>
+2211133 - Makoto Sato<br/>
 2111070 - Hiroto Oshimi<br/>
+2211025 - Naoto Ichi<br/>
 2211341<br/>
 2111252 - Daiki Mayumi <br/>
 2111016 - Hiroki Ishimaru<br/>
@@ -207,11 +216,13 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2211113 - Ippei Goto<br/>
 2111234 - Tomoki Hoshino<br/>
 2111095 - Yuta Kimata<br/>
+2211329 - Kanta Watanabe<br/>
 2111084 - Akira Kawabata<br/>
 2011427 - Yu Zihao</br>
 2111039 - Kentaro Ueda
 2111414 - Hathaichanok Damrongsiri</br>
 2111084 - Akira Kawabata<br/>
+2111421 - Lee Sangmyeong<br/>
 2111107 - Tomohito Kodera<br/>
 2111021 - Kazuhiro Ito<br/>
 2111043 - Makoto Uehara<br/>
@@ -233,6 +244,8 @@ studentID - username <br/>
 2211188 - Haruki Chaen<br/>
 2211152 - Yuta Shintani
 2211255
+2211012 - Shizuku Iida
+2211192
 2211284
 2211281 - Nanako Michiura<br/>
 2211332 - GAOSHAN<br/>
@@ -246,17 +259,37 @@ studentID - username <br/>
 2211224 - Yuta Nishikawa<br/>
 2011302 - chi zihao <br/>
 2211331 - Chen Xian<br/>
+2211073 <br/>
 2211345 - Zheng Haozhi <br/>
 2211313 - Junya Yamamoto <br/>
 2211018 - Ryuta Ishikawa <br/>
 2111438 - Wu Yufei <br/>
 2211177 - Shinnosuke Tanaka <br/>
 2111406 - Hidenori Kiyomoto<br/>
+2111402
+2211313 - Junya Yamamoto <br/>
+2211067 - Koki Otsuka<br/>
 2211258 - Yue Fujiki<br/>
 2111191 - Tomohiro Nishiyama<br/>
 2211249 - Junya Hishikawa<br/>
+2211351 - Shu Sakamoto<br/>
 2211186 - Yujiro Tamura<br/>
 2094023 - kotjik (Kulik Konstantin)
 2211186 - Yujiro Tamura<br/>
 2211230 - Ryuhei Noguchi<br/>
 2111416 - Fan Youmei<br/>
+2111416 - Fan Youmei<br/>
+2211199
+2211114 - Toma Kobayashi<br/>
+2211135 - Masaki Sanada<br/>
+2211278 - Yuki Mishima<br/>
+2111417
+2211267<br/>
+2211078 - Natsuo Okamoto<br/>
+2111416 - Fan Youmei<br/>
+2111432
+2211210 - Nakamura Tsubasa<br/>
+2211241 - Yuta Hamada<br/> 
+2111417 - Hong Ruixun
+2111427 - Muhammad Alqaaf Subandoko <br/>
+2211360 - Wong Ho Yin (Gabriel)<br/>
