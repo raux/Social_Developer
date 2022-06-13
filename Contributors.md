@@ -37,6 +37,7 @@ studentID - username <br/>
 2011171 - Ken<br/>
 2211176 - Koki Tanaka<br/>
 2111257 - Ryosuke Miyawaki<br/>
+2211057 - Yuki Oishi<br/>
 2211143 - Riku Shinohara<br/>
 2011145 - Sugahara Takuya<br/>
 2111025<br/>
@@ -258,5 +259,4 @@ studentID - username <br/>
 2211186 - Yujiro Tamura<br/>
 2094023 - kotjik (Kulik Konstantin)
 2211186 - Yujiro Tamura<br/>
-2211057 - Yuki Oishi<br/>
 2111416 - Fan Youmei<br/>
