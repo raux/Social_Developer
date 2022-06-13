@@ -43,6 +43,7 @@ studentID - username <br/>
 2011171 - Ken<br/>
 2211176 - Koki Tanaka<br/>
 2111257 - Ryosuke Miyawaki<br/>
+2211057 - Yuki Oishi<br/>
 2211143 - Riku Shinohara<br/>
 2211063 - Hiroki Ota<br/>
 2011145 - Sugahara Takuya<br/>
