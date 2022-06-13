@@ -22,6 +22,7 @@ studentID - username <br/>
 2011302 - CHI ZIHAO(Pull request again on Nov 26th) <br/>
 2011110 -Tetsuya Kodama<br/>
 2011115 - YuhiSaiki<br/>
+2211147 - Seiji Shimizu<br/>
 2011088 - Toshinori Kitamura <br/>
 2111430 - Ruksit Rojpaisarnkit <br/>
 2011140 - Naomichi Shimada<br/>
@@ -31,6 +32,7 @@ studentID - username <br/>
 2011268 - Keita Morisaki<br/>
 2011170 - Seiya Tanaka<br/>
 2011226 - Shintaro Harada <br/>
+2211324 - Hiroto Yorioka <br/>
 1911407 - Gamar Azuaje <br/>
 1911402 - Shogo Ujiie<br/>
 2011017 - Ikegami Ayano<br/>
@@ -176,7 +178,8 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111259 - Murakami Kyoya<br/>
 2111291 - Masashi Yoshimura<br/>
 2111027 - Shota Inoue <br/>
-2111030 - Akihito Ihara <br/>
+2211324 - Hiroto Yorioka <br/>
+2111030   - Akihito Ihara <br/>
 2111080 - Shuhei Kayawari <br/>
 2111178 - Touri Nakagawa <br/>
 2111080 - Shuhei Kayawari <br/>
@@ -207,6 +210,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2211113 - Ippei Goto<br/>
 2111234 - Tomoki Hoshino<br/>
 2111095 - Yuta Kimata<br/>
+2211329 - Kanta Watanabe<br/>
 2111084 - Akira Kawabata<br/>
 2011427 - Yu Zihao</br>
 2111039 - Kentaro Ueda
@@ -225,7 +229,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 studentID - username <br/>
 2111418 - Hovhannisyan Ani<br/>
 2111113 - Masahiro Kobayashi
-2094023 - kotjik (Kulik Konstantin) 
+2094023 - kotjik (Kulik Konstantin)
 2211186 - Yujiro Tamura<br/>
 2111113 - Masahiro Kobayashi<br/>
 2211200 - Takuma Nagao
@@ -247,12 +251,16 @@ studentID - username <br/>
 2211224 - Yuta Nishikawa<br/>
 2011302 - chi zihao <br/>
 2211331 - Chen Xian<br/>
+2211073 <br/>
 2211345 - Zheng Haozhi <br/>
 2211313 - Junya Yamamoto <br/>
 2211018 - Ryuta Ishikawa <br/>
 2111438 - Wu Yufei <br/>
 2211177 - Shinnosuke Tanaka <br/>
 2111406 - Hidenori Kiyomoto<br/>
+2111402
+2211313 - Junya Yamamoto <br/>
+2211067 - Koki Otsuka<br/>
 2211258 - Yue Fujiki<br/>
 2111191 - Tomohiro Nishiyama<br/>
 2211249 - Junya Hishikawa<br/>
@@ -260,3 +268,4 @@ studentID - username <br/>
 2094023 - kotjik (Kulik Konstantin)
 2211186 - Yujiro Tamura<br/>
 2111416 - Fan Youmei<br/>
+2211241 - Yuta Hamada<br/> 
