@@ -19,11 +19,13 @@ studentID - username <br/>
 2011025 - Toyomi Ishida<br/>
 2211084 - Shota Ozaki<br/>
 2211029 - Shun Inadumi<br/>
+2211163 - goat1010 <br/>
 2011302 - CHI ZIHAO<br/>
 2011302 - CHI ZIHAO(Pull request again on Nov 26th) <br/>
 2011110 -Tetsuya Kodama<br/>
 2011115 - YuhiSaiki<br/>
 2211147 - Seiji Shimizu<br/>
+2211051 - Taisei Urakami <br/>
 2011088 - Toshinori Kitamura <br/>
 2111430 - Ruksit Rojpaisarnkit <br/>
 2011140 - Naomichi Shimada<br/>
@@ -200,7 +202,9 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111017 - Tokimune Ishiyama<br/>
 2111121 - Ryota Saze <br/>
 2211075 - Koki Okai<br/>
+2211133 - Makoto Sato<br/>
 2111070 - Hiroto Oshimi<br/>
+2211025 - Naoto Ichi<br/>
 2211341<br/>
 2111252 - Daiki Mayumi <br/>
 2111016 - Hiroki Ishimaru<br/>
@@ -217,6 +221,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111039 - Kentaro Ueda
 2111414 - Hathaichanok Damrongsiri</br>
 2111084 - Akira Kawabata<br/>
+2111421 - Lee Sangmyeong<br/>
 2111107 - Tomohito Kodera<br/>
 2111021 - Kazuhiro Ito<br/>
 2111043 - Makoto Uehara<br/>
@@ -239,6 +244,7 @@ studentID - username <br/>
 2211152 - Yuta Shintani
 2211255
 2211012 - Shizuku Iida
+2211192
 2211284
 2211281 - Nanako Michiura<br/>
 2211332 - GAOSHAN<br/>
@@ -265,6 +271,7 @@ studentID - username <br/>
 2211258 - Yue Fujiki<br/>
 2111191 - Tomohiro Nishiyama<br/>
 2211249 - Junya Hishikawa<br/>
+2211351 - Shu Sakamoto<br/>
 2211186 - Yujiro Tamura<br/>
 2094023 - kotjik (Kulik Konstantin)
 2211186 - Yujiro Tamura<br/>
@@ -272,4 +279,6 @@ studentID - username <br/>
 2111432
 2211210 - Nakamura Tsubasa<br/>
 2211241 - Yuta Hamada<br/> 
-
+2111417 - Hong Ruixun
+2111427 - Muhammad Alqaaf Subandoko <br/>
+2211360 - Wong Ho Yin (Gabriel)<br/>
