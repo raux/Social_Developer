@@ -228,7 +228,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 studentID - username <br/>
 2111418 - Hovhannisyan Ani<br/>
 2111113 - Masahiro Kobayashi
-2094023 - kotjik (Kulik Konstantin) 
+2094023 - kotjik (Kulik Konstantin)
 2211186 - Yujiro Tamura<br/>
 2111113 - Masahiro Kobayashi<br/>
 2211200 - Takuma Nagao
@@ -263,6 +263,8 @@ studentID - username <br/>
 2211186 - Yujiro Tamura<br/>
 2094023 - kotjik (Kulik Konstantin)
 2211186 - Yujiro Tamura<br/>
+2211360 - Wong Ho Yin (Gabriel)<br/>
+=======
 2111416 - Fan Youmei<br/>
 2211278 - Yuki Mishima<br/>
 2111417
