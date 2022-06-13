@@ -12,6 +12,7 @@ studentID - username <br/>
 2111089 - Shogo Kanda<br/>
 2111411<br/>
 2211048<br/>
+2111441 - Yang Shuo<br/>
 1911401 - Yuri UENO<br/>
 1911405 - Joji Yanagii<br/>
 1911415 - Pabitra LENKA<br/>
@@ -267,7 +268,5 @@ studentID - username <br/>
 2211186 - Yujiro Tamura<br/>
 2111416 - Fan Youmei<br/>
 2111417 - Hong Ruixun
-=======
 2111427 - Muhammad Alqaaf Subandoko <br/>
-=======
 2211360 - Wong Ho Yin (Gabriel)<br/>
