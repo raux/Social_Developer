@@ -199,6 +199,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2211075 - Koki Okai<br/>
 2211133 - Makoto Sato<br/>
 2111070 - Hiroto Oshimi<br/>
+2211025 - Naoto Ichi<br/>
 2211341<br/>
 2111252 - Daiki Mayumi <br/>
 2111016 - Hiroki Ishimaru<br/>
@@ -266,8 +267,4 @@ studentID - username <br/>
 2211360 - Wong Ho Yin (Gabriel)<br/>
 =======
 2111416 - Fan Youmei<br/>
-2211278 - Yuki Mishima<br/>
-2111417
-2211267<br/>
-2211078 - Natsuo Okamoto<br/>
-2111416 - Fan Youmei<br/>
+
