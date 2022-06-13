@@ -243,6 +243,7 @@ studentID - username <br/>
 2011302 - chi zihao <br/>
 2111434 - Vincent Michael Sutanto <br/>
 2211186 - Yuujiro Tamura<br/>
+2211359 - Pierre Jude<br/>
 2111426
 2111113 - Masahiro Kobayashi<br/>
 2211224 - Yuta Nishikawa<br/>
@@ -267,4 +268,4 @@ studentID - username <br/>
 2211267<br/>
 2211078 - Natsuo Okamoto<br/>
 2111416 - Fan Youmei<br/>
-2211359 - Pierre Jude Crener Junior
+
