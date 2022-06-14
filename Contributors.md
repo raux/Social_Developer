@@ -262,6 +262,7 @@ studentID - username <br/>
 2011302 - chi zihao <br/>
 2111434 - Vincent Michael Sutanto <br/>
 2211186 - Yuujiro Tamura<br/>
+2211359 - Pierre Jude Crener Junior<br/>
 2111426
 2111113 - Masahiro Kobayashi<br/>
 2211224 - Yuta Nishikawa<br/>
@@ -285,6 +286,7 @@ studentID - username <br/>
 2094023 - kotjik (Kulik Konstantin)
 2211186 - Yujiro Tamura<br/>
 2111416 - Fan Youmei<br/>
+2111442 - Zhang Zhouqing
 2111427 - Muhammad Alqaaf Subandoko<br/>
 2211230 - Ryuhei Noguchi<br/>
 2111416 - Fan Youmei<br/>
@@ -293,15 +295,18 @@ studentID - username <br/>
 2211114 - Toma Kobayashi<br/>
 2211135 - Masaki Sanada<br/>
 2211278 - Yuki Mishima<br/>
+2211283 - Ryoto Minami<br/>
 2111423 - Lin ChingYuan<br/>
 2111417
 2211267<br/>
 2211078 - Natsuo Okamoto<br/>
 2111416 - Fan Youmei<br/>
-2211087<br />
+2211087 <br />
 2111432
 2211210 - Nakamura Tsubasa<br/>
 2211241 - Yuta Hamada<br/> 
 2111417 - Hong Ruixun
 2111427 - Muhammad Alqaaf Subandoko <br/>
 2211360 - Wong Ho Yin (Gabriel)<br/>
+2111442 - Zhang Zhouqing
+2211197 - Yusei Naito<br/>
