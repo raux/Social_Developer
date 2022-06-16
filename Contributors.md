@@ -1,4 +1,6 @@
 studentID - username <br/>
+2111149   - Keiichiro Takahashi <br/>
+2211320 - Ryuki Yoshida <br/>
 2111149 - Keiichiro Takahashi <br/>
 2111441 - Yang Shuo<br/>
 2211320 <br/>
@@ -28,6 +30,7 @@ studentID - username <br/>
 2211084 - Shota Ozaki<br/>
 2211326 - takashi Ryuguji <br/>
 2211029 - Shun Inadumi<br/>
+2211308 - Konosuke Yamasaki<br/>
 2211163 - goat1010 <br/>
 2011302 - CHI ZIHAO<br/>
 2011302 - CHI ZIHAO(Pull request again on Nov 26th) <br/>
@@ -69,6 +72,7 @@ studentID - username <br/>
 2011156 - Teyon Son<br/>
 2011407 - Takuya Maeda <br/>
 2011406 - Chihiro Taguchi <br/>
+2211060 - Ryusei Okawa <br/>
 2011403 - Hiroya Kawase <br/>
 2111251 - Tomoki Matsuyama <br/>
 2111241 - Shota Matsuo<br/>
@@ -246,6 +250,8 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111054 - Hiroyuki Otomo<br/>
 2111052 - Itaru Ota<br/>
 2111008 - Tatsuki Asada<br/>
+2211116 - Chisa Kondo<br/> 
+2211065<br/>
 2211065 - Ippei Otake<br/>
 2011070 - Kazuyo Onishi <br/>
 2111113 - Masahiro Kobayashi<br/>
@@ -284,6 +290,7 @@ studentID - username <br/>
 2111438 - Wu Yufei <br/>
 2211177 - Shinnosuke Tanaka <br/>
 2111406 - Hidenori Kiyomoto<br/>
+2211201 - Eiki Nagata<br/>
 2111402
 2211313 - Junya Yamamoto <br/>
 2211067 - Koki Otsuka<br/>
@@ -296,7 +303,6 @@ studentID - username <br/>
 2211186 - Yujiro Tamura<br/>
 2111416 - Fan Youmei<br/>
 2111442 - Zhang Zhouqing
-=======
 2111197 - Yusei Naito<br/>
 2111427 - Muhammad Alqaaf Subandoko<br/>
 2211230 - Ryuhei Noguchi<br/>
@@ -312,15 +318,18 @@ studentID - username <br/>
 2211078 - Natsuo Okamoto<br/>
 2111416 - Fan Youmei<br/>
 2211087 <br />
-=======
 2111206 - Kouki Hayafune
 2211087<br />
 2111432
 2211210 - Nakamura Tsubasa<br/>
+2211241 - Yuta Hamada<br/> 
+2211218
 2211241 - Yuta Hamada<br/>
 2111417 - Hong Ruixun
 2111427 - Muhammad Alqaaf Subandoko <br/>
 2211360 - Wong Ho Yin (Gabriel)<br/>
+2211212 - Ren Nakamura<br/>
 2111442 - Zhang Zhouqing
 2211197 - Yusei Naito<br/>
 2111409 - Tomoya Mizukuro<br/>
+2211032 - Ren Imamura <br/>
