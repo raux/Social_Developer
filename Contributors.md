@@ -28,6 +28,7 @@ studentID - username <br/>
 2211084 - Shota Ozaki<br/>
 2211326 - takashi Ryuguji <br/>
 2211029 - Shun Inadumi<br/>
+2211308 - Konosuke Yamasaki<br/>
 2211163 - goat1010 <br/>
 2011302 - CHI ZIHAO<br/>
 2011302 - CHI ZIHAO(Pull request again on Nov 26th) <br/>
