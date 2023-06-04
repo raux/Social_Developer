@@ -11,3 +11,20 @@ jobs:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: 'Message that will be displayed on users'' first issue'
         pr-message: 'Message that will be displayed on users'' first pr'
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  approve-prs:
+    runs-on: ubuntu-latest
+    name: Approve valid PRs 
+    steps:
+      - name: Approve valid workflows
+        uses: Cian911/gomerge-action@master
+        with:
+          repository: ${{ github.repository }}
+          github_token: ${{ secrets.APPROVER }}
+          labels: ""
+          approve: "true"
