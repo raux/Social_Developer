@@ -346,6 +346,8 @@ studentID - username <br/>
 2311160 - Hotaka Taguchi <br/>
 2311089 - Ryutaro Kajiwara <br/>
 2111440 - Xuzhe<br/>
+2311097 - Yuya Kawabata <br/>
+2311240 - Yuta Fujimoto <br/>
 2311249 - Takanori<br/>
 2311328 - Ferreira da Silva Lucas <br/>
 2311194 - Hibiki Nakatani <br/>
