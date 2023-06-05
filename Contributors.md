@@ -7,6 +7,7 @@ studentID - username <br/>
 2111441 - Yang Shuo<br/>
 2211320 <br/>
 2211355 - Kazutomo Nakamura <br/>
+2311241 - Kazuma Fujiwara <br/>
 2011431 - Zhu Guangxian <br/>
 2011428 - Yongxin Zhang <br/>
 2111293 - Ryoseki Ri <br/>
