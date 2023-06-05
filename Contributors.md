@@ -308,9 +308,10 @@ studentID - username <br/>
 2111427 - Muhammad Alqaaf Subandoko<br/>
 2211230 - Ryuhei Noguchi<br/>
 2111416 - Fan Youmei<br/>
-2211199
+2211199 - Nakai Takachi
 2211114 - Toma Kobayashi<br/>
 2211135 - Masaki Sanada<br/>
+2211194 - Yuki Tomimura <br/>
 2211278 - Yuki Mishima<br/>
 2211283 - Ryoto Minami<br/>
 2111423 - Lin ChingYuan<br/>
@@ -336,4 +337,6 @@ studentID - username <br/>
 2211080 - Shunsuke Oguni<br/>
 2111409 - Tomoya Mizukuro<br/>
 2211032 - Ren Imamura <br/>
+2211081 - Yushi Okunishi <br/>
+2111440 - Xuzhe<br/>
 2211080 - Shunsuke Oguni
