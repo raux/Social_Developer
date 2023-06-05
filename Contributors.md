@@ -106,6 +106,7 @@ studentID - username <br/>
 1911407 - Gamar Azuaje <br/>
 1911402 - Shogo Ujiie<br/>
 2111136 - Takuma Suginomori<br/>
+2311145 - Takumi Sumino<br/>
 2011017 - Ikegami Ayano<br/>
 2011072 -Origasa Takumi<br/>
 2011171 - Ken<br/>
