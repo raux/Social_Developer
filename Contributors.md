@@ -354,6 +354,7 @@ studentID - username <br/>
 2311225 - Junko Hayashi
 2311097 - Yuya Kawabata <br/>
 2111420 - Kang Xingyuan(KKKKKXY) <br/>
+2211422 - Zheyuan Wei <br/>
 2311240 - Yuta Fujimoto <br/>
 2311249 - Takanori<br/>
 2311328 - Ferreira da Silva Lucas <br/>
@@ -362,6 +363,7 @@ studentID - username <br/>
 2311312 - Tamami Watanabe <br/>
 2311138 - Suehara Kazuki <br/>
 2311138 - Suehara Kazuki <br/>
+Minoru Ishihara - MinoruIshihara
 2311173 - Kohei Tsuji <br/>
 Minoru Ishihara - MinoruIshihara
 2311278 - Muramoto Kojiro <br/>
