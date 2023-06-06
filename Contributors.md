@@ -358,5 +358,7 @@ studentID - username <br/>
 2311328 - Ferreira da Silva Lucas <br/>
 2311194 - Hibiki Nakatani <br/>
 2311097 - Yuya Kawabata <br/>
+2311312 - Tamami Watanabe <br/>
+2311138 - Suehara Kazuki <br/>
 2311138 - Suehara Kazuki <br/>
 Minoru Ishihara - MinoruIshihara
