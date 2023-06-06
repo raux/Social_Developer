@@ -359,3 +359,4 @@ studentID - username <br/>
 2311194 - Hibiki Nakatani <br/>
 2311097 - Yuya Kawabata <br/>
 2311138 - Suehara Kazuki <br/>
+Minoru Ishihara - MinoruIshihara
