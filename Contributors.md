@@ -356,6 +356,7 @@ studentID - username <br/>
 2111420 - Kang Xingyuan(KKKKKXY) <br/>
 2311240 - Yuta Fujimoto <br/>
 2311249 - Takanori<br/>
+2311145 - Takumi Sumino<br/>
 2311328 - Ferreira da Silva Lucas <br/>
 2311194 - Hibiki Nakatani <br/>
 2311097 - Yuya Kawabata <br/>
