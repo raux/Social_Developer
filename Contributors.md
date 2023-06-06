@@ -363,8 +363,4 @@ studentID - username <br/>
 2311138 - Suehara Kazuki <br/>
 2311138 - Suehara Kazuki <br/>
 Minoru Ishihara - MinoruIshihara
-<<<<<<< HEAD
 2311278 - Muramoto Kojiro <br/>
-=======
-2311278 - Muramoto Kojiro
->>>>>>> 0962ded153b80c486e045f04dbdb881597c09aa6
