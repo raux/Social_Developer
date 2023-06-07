@@ -156,6 +156,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111287 - Kai Yoshida<br/>
 2111219 - Fukuda Takumi<br/>
 2011156 - Teyon Son<br/>
+2311332 - Harland<br/>
 2111167 - Hayato Tsubaki<br/>
 2111249 - Takashi Matsumoto<br/>
 2111109 - Takumi Goto<br/>
@@ -358,9 +359,11 @@ studentID - username <br/>
 2111420 - Kang Xingyuan(KKKKKXY) <br/>
 2211422 - Zheyuan Wei <br/>
 2311240 - Yuta Fujimoto <br/>
+2311252 - Matsura Kouki <br/>
 2311249 - Takanori<br/>
 2311328 - Ferreira da Silva Lucas <br/>
 2311194 - Hibiki Nakatani <br/>
+2311261 - Akihiro Miura <br/>
 2311097 - Yuya Kawabata <br/>
 2311320 - Haruto Tanaka <br/>
 2311312 - Tamami Watanabe <br/>
