@@ -9,6 +9,7 @@ studentID - username <br/>
 2211320 <br/>
 2211355 - Kazutomo Nakamura <br/>
 2311241 - Kazuma Fujiwara <br/>
+2311307 - Miki Yonekura <br/>
 2011431 - Zhu Guangxian <br/>
 2011428 - Yongxin Zhang <br/>
 2111293 - Ryoseki Ri <br/>
@@ -351,6 +352,7 @@ studentID - username <br/>
 2311160 - Hotaka Taguchi <br/>
 2311089 - Ryutaro Kajiwara <br/>
 2111440 - Xuzhe<br/>
+2311116 - Sakiho Kuriu<br/>
 2311225 - Junko Hayashi
 2311097 - Yuya Kawabata <br/>
 2111420 - Kang Xingyuan(KKKKKXY) <br/>
@@ -367,3 +369,6 @@ studentID - username <br/>
 2311173 - Kohei Tsuji <br/>
 2311278 - Muramoto Kojiro <br/>
 2211405 - Iqra Ali <br/>
+2311021 - Takumi Ikenaga
+2311120 - Kozaki Taizo
+2311003 - Toshihiro Asai <br/>
