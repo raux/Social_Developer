@@ -362,6 +362,7 @@ studentID - username <br/>
 2311328 - Ferreira da Silva Lucas <br/>
 2311194 - Hibiki Nakatani <br/>
 2311097 - Yuya Kawabata <br/>
+2311320 - Haruto Tanaka <br/>
 2311312 - Tamami Watanabe <br/>
 2311138 - Suehara Kazuki <br/>
 2311138 - Suehara Kazuki <br/>
@@ -376,3 +377,4 @@ studentID - username <br/>
 2311003 - Toshihiro Asai <br/>
 2311219 - Hashimoto Sachi <br/>
 2311233 - Takuya Fukushima <br/>
+2311221 - Carlos Paniagua <br/>
