@@ -1,1 +1,1 @@
-2111001 Yuta Aihshima
+Yuta Aishima
