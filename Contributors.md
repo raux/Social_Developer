@@ -304,7 +304,7 @@ studentID - username <br/>
 2211186 - Yujiro Tamura<br/>
 2111416 - Fan Youmei<br/>
 2111442 - Zhang Zhouqing
-2311114 - Takuto Kudo
+2311114 - Takuto Kudo<br/>
 2111197 - Yusei Naito<br/>
 2111427 - Muhammad Alqaaf Subandoko<br/>
 2211230 - Ryuhei Noguchi<br/>
